@@ -1,12 +1,3 @@
----
-path: "/blog/infinite-scroll-with-ionic-react"
-date: "2019-12-02"
-title: "Infinite Scroll with Ionic + React"
-description: "How to implement an Infinite Scroll in Ionic and React with or without Hooks"
-tags: "#programming #react #javascript #tutorial"
-image: "https://cdn-images-1.medium.com/max/1600/1*VST3XVmoX1R3hAXJ8OGw4A.jpeg"
----
-
 ![](https://cdn-images-1.medium.com/max/1600/1*VST3XVmoX1R3hAXJ8OGw4A.jpeg)
 
 Ionic React has been made [available](https://ionicframework.com/blog/announcing-ionic-react/) earlier this year and I’ll introduce some of its features at our local [meetup](https://www.meetup.com/fr-FR/Ionic-Zurich/events/265767496/) this Thursday. One of these is the implementation of an infinite scroller, which I’m about to share with you in the following post 😃
